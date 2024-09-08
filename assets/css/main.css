@@ -1449,6 +1449,10 @@ input, select, textarea {
 				line-height: 4.75rem;
 			}
 
+			#header .content {
+				border-color: transparent;
+			}
+
 				#header .logo .icon:before {
 					font-size: 1.75rem;
 				}
